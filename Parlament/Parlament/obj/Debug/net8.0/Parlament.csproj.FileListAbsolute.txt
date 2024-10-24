@@ -1,0 +1,14 @@
+D:\projects\Parlament\Parlament\bin\Debug\net8.0\Parlament.exe
+D:\projects\Parlament\Parlament\bin\Debug\net8.0\Parlament.deps.json
+D:\projects\Parlament\Parlament\bin\Debug\net8.0\Parlament.runtimeconfig.json
+D:\projects\Parlament\Parlament\bin\Debug\net8.0\Parlament.dll
+D:\projects\Parlament\Parlament\bin\Debug\net8.0\Parlament.pdb
+D:\projects\Parlament\Parlament\obj\Debug\net8.0\Parlament.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Parlament\Parlament\obj\Debug\net8.0\Parlament.AssemblyInfoInputs.cache
+D:\projects\Parlament\Parlament\obj\Debug\net8.0\Parlament.AssemblyInfo.cs
+D:\projects\Parlament\Parlament\obj\Debug\net8.0\Parlament.csproj.CoreCompileInputs.cache
+D:\projects\Parlament\Parlament\obj\Debug\net8.0\Parlament.dll
+D:\projects\Parlament\Parlament\obj\Debug\net8.0\refint\Parlament.dll
+D:\projects\Parlament\Parlament\obj\Debug\net8.0\Parlament.pdb
+D:\projects\Parlament\Parlament\obj\Debug\net8.0\Parlament.genruntimeconfig.cache
+D:\projects\Parlament\Parlament\obj\Debug\net8.0\ref\Parlament.dll
